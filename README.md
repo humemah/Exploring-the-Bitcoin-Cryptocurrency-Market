@@ -5,4 +5,4 @@ Warning: The cryptocurrency market is exceptionally volatile, and any money you 
 
 To complete this project, you need to be fluent with pandas DataFrames. Before starting this project, we recommend that you have completed the following courses:
 
-pandas Foundations Manipulating DataFrames with pandas Cleaning Data in Pytho
+pandas Foundations Manipulating DataFrames with pandas Cleaning Data in Python
